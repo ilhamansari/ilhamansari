@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ilhamansari
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning html, css, javascript and I am looking forward to learning reactjs.
+- 🌱 I am familiar with HTML, CSS and JS.
+- Currently learning the most used framework of JS - ReactJS.
 - 💞️ I’m looking to collaborate on frontend related projects.
 - 📫 How to reach me :
 - Email - ansariilham5@gmail.com
