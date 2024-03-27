@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilhamansari
 - 👀 I’m interested in web development.
-- 🌱 I am familiar with HTML, CSS and JS.
+- 🌱 I am familiar with HTML, CSS, JS, C and Python.
 - Currently learning ReactJS.
 - 💞️ I’m looking forward to collaborate on frontend related projects.
 - 📫 How to reach me :
